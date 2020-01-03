@@ -4,7 +4,7 @@
 
 Vous trouvez ici tous les fichiers relatifs au jeu ***Musée X*** (codes, ressources, etc.)
 
-Jeu développé dans le cadre du cours "Développement de jeux vidéo 2D", donnà l'Université de Lausanne par Isaac Pante.
+Jeu développé dans le cadre du cours "Développement de jeux vidéo 2D", donné à l'Université de Lausanne par Isaac Pante.
 (automne 2019)
 
 ## But de la médiation
