@@ -13,12 +13,9 @@ Jeu développé dans le cadre du cours "Développement de jeux vidéo 2D", donn�
 
 ## Système de jeu
 Fiction interactive (visual novel) avec quelques mécaniques de point'n'click.
-
-### Influences et inspirations
-Super Mario 64, Série Trauma Center, Hotel Dusk: Room 215
-### Type de jeu
-Fiction interactive (*visual novel*) avec quelques mécaniques de point'n'click.
 ### Moteur de jeu
-Développé sur Ren'Py et codé sur Visual Studio Code.
+Développé sur Ren'Py et codé sur Visual Studio Code, en langage Pyhton.
 ### Public cible
 Tous publics.
+### Influences et inspirations
+Super Mario 64, Série Trauma Center, Hotel Dusk: Room 215
