@@ -13,7 +13,7 @@
 - Double-cliquer sur l'application pour lancer le jeu.
 - Si l'application ne s'ouvre pas, il est nécessaire d'autoriser son ouverture dans les réglages de Sécurité et Confidentalité de l'ordinateur.
 
-`ATTENTION : le dossier "versionMac" est obsolète et ne peut être utilisé pour lancer le jeu !`
+`ATTENTION : le dossier "versionMac" est obsolète et ne peut être utilisé pour lancer le jeu ! Seul le dossier "MUSEE_X_JEU.app/Contents" est valide.`
 
 ## Développement
 Vous trouvez ici tous les fichiers relatifs au jeu ***Musée X*** (codes, ressources, etc.)
