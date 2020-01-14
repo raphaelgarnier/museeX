@@ -12,7 +12,8 @@
 - Localiser le dossier téléchargé et chercher l'application "MUSEE_X_JEU.app"
 - Double-cliquer sur l'application pour lancer le jeu.
 - Si l'application ne s'ouvre pas, il est nécessaire d'autoriser son ouverture dans les réglages de Sécurité et Confidentalité de l'ordinateur.
-- `ATTENTION : le dossier "versionMac" est obsolète et ne peut être utilisé pour lancer le jeu !`
+
+`ATTENTION : le dossier "versionMac" est obsolète et ne peut être utilisé pour lancer le jeu !`
 
 ## Développement
 Vous trouvez ici tous les fichiers relatifs au jeu ***Musée X*** (codes, ressources, etc.)
