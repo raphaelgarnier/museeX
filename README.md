@@ -1,7 +1,11 @@
 # Musée X
 
-## Développement
+## Comment jouer ?
 
+Sur Windows :
+- 
+
+## Développement
 Vous trouvez ici tous les fichiers relatifs au jeu ***Musée X*** (codes, ressources, etc.)
 
 Jeu développé dans le cadre du cours "Développement de jeux vidéo 2D", donné à l'Université de Lausanne par Isaac Pante.
