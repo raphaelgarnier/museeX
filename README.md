@@ -10,8 +10,8 @@
 **Sur Mac :**
 - Télécharger le dossier complet en ZIP sur votre disque local (en cliquant sur le bouton vert en haut à droite "Clone or download").
 - Localiser le dossier téléchargé et chercher l'application "MUSEE_X_JEU.app"
-- Double-cliquer sur l'application.
-- Si l'application ne s'ouvre pas, il est nécessaire d'autoriser son ouverture dans les réglages de Sécurité et confidentalité et de l'ordinateur.
+- Double-cliquer sur l'application pour lancer le jeu.
+- Si l'application ne s'ouvre pas, il est nécessaire d'autoriser son ouverture dans les réglages de Sécurité et Confidentalité de l'ordinateur.
 
 ## Développement
 Vous trouvez ici tous les fichiers relatifs au jeu ***Musée X*** (codes, ressources, etc.)
@@ -30,4 +30,4 @@ Développé sur Ren'Py et codé sur Visual Studio Code, en langage Pyhton.
 ### Public cible
 Tous publics.
 ### Influences et inspirations
-Super Mario 64, Série Trauma Center, Hotel Dusk: Room 215
+Super Mario 64 / Série Trauma Center / Hotel Dusk: Room 215 / Octopath Traveler
