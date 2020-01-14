@@ -1,5 +1,5 @@
 # Musée X
-
+![Image description](versionWindows/game/images/MuseeXlogo.png)
 ## Comment jouer ?
 **Sur Windows :**
 - Télécharger le dossier complet en ZIP sur votre disque local (en cliquant sur le bouton vert en haut à droite "Clone or download").
