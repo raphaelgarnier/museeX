@@ -1,9 +1,17 @@
 # Musée X
 
 ## Comment jouer ?
-
 Sur Windows :
-- 
+- Télécharger le dossier museeX en ZIP sur votre disque local.
+- Une fois téléchargé, extraire tout le dossier ZIP.
+- Ouvrir le dossier décompressé.
+- Localiser le fichier "MUSEE_X_JEU.exe" et double-cliquer dessus pour accéder au jeu.
+
+Sur Mac :
+- Télécharger le dossier museeX en ZIP sur votre disque local.
+- Localiser le dossier téléchargé et chercher l'application "MUSEE_X_JEU.app"
+- Double-cliquer sur l'application.
+- Si l'application ne s'ouvre pas, il est nécessaire d'autoriser son ouverture dans les réglages de Sécurité et confidentalité et de l'ordinateur.
 
 ## Développement
 Vous trouvez ici tous les fichiers relatifs au jeu ***Musée X*** (codes, ressources, etc.)
