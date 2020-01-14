@@ -18,7 +18,7 @@
 ## Développement
 Vous trouvez ici tous les fichiers relatifs au jeu ***Musée X*** (codes, ressources, etc.)
 
-Jeu développé dans le cadre du cours "Développement de jeux vidéo 2D", donné à l'Université de Lausanne par Isaac Pante
+Jeu développé dans le cadre du cours ["Développement de jeux vidéo 2D"](https://github.com/ipante/ressources_cours_jeux_video_2D), donné à l'Université de Lausanne par Isaac Pante
 (automne 2019).
 
 Jeu publié pour la première fois en janvier 2020.
