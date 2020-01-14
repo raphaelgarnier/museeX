@@ -1,4 +1,3 @@
-# Musée X
 ![Image description](versionWindows/game/images/MuseeXlogo.png)
 ## Comment jouer ?
 **Sur Windows :**
