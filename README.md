@@ -26,7 +26,7 @@ Jeu publié pour la première fois en janvier 2020.
 - Explorer des oeuvres de manière ludique.
 
 ## Système de jeu
-Fiction interactive (visual novel) avec quelques mécaniques de point'n'click.
+Fiction interactive (*visual novel*) avec quelques mécaniques de point'n'click.
 ### Moteur de jeu
 Développé sur Ren'Py et codé sur Visual Studio Code, en langage Pyhton.
 ### Public cible
