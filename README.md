@@ -34,7 +34,7 @@ Développé sur Ren'Py et codé sur Visual Studio Code, en langage Pyhton.
 ### Public cible
 Tous publics.
 ### Influences et inspirations
-[Super Mario 64](https://fr.wikipedia.org/wiki/Super_Mario_64) / [Série Trauma Center](https://en.wikipedia.org/wiki/Trauma_Center_(video_game_series) / [Hotel Dusk: Room 215](https://www.nintendo.ch/fr/Jeux/Nintendo-DS/Hotel-Dusk-Room-215-271089.html#Galerie_m_dia) / [Octopath Traveler](https://www.nintendo.ch/fr/Jeux/Nintendo-Switch/OCTOPATH-TRAVELER-1275922.html#)
+[Super Mario 64](https://fr.wikipedia.org/wiki/Super_Mario_64) / [Série Trauma Center](https://en.wikipedia.org/wiki/Trauma_Center_video_game_series) / [Hotel Dusk: Room 215](https://www.nintendo.ch/fr/Jeux/Nintendo-DS/Hotel-Dusk-Room-215-271089.html#Galerie_m_dia) / [Octopath Traveler](https://www.nintendo.ch/fr/Jeux/Nintendo-Switch/OCTOPATH-TRAVELER-1275922.html#)
 
 ## Informations supplémentaires
 Pour toute question, suggestion ou autre requête : raphael.garnier@unil.ch
