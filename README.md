@@ -31,3 +31,6 @@ Développé sur Ren'Py et codé sur Visual Studio Code, en langage Pyhton.
 Tous publics.
 ### Influences et inspirations
 Super Mario 64 / Série Trauma Center / Hotel Dusk: Room 215 / Octopath Traveler
+
+## Informations supplémentaires
+Pour toute question, suggestion ou autre requête : raphael.garnier@unil.ch
