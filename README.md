@@ -5,6 +5,7 @@
 - Une fois téléchargé, extraire tout le dossier ZIP.
 - Ouvrir le dossier décompressé.
 - Localiser le fichier "MUSEE_X_JEU.exe" et double-cliquer dessus pour accéder au jeu.
+- Si le jeu ne fonctionne pas, supprimer tout ce qui a déjà été téléchargé et tenter de retélécharger le dossier en cliquant [ici](https://1drv.ms/u/s!AjBBjBB7mAZQt2tkbDoZyMCMpILz?e=cGRdwQ).
 
 **Sur Mac :**
 - Télécharger le dossier complet en ZIP sur votre disque local (en cliquant sur le bouton vert en haut à droite "Clone or download").
@@ -13,7 +14,7 @@
 - Si l'application ne s'ouvre pas, il est nécessaire d'autoriser son ouverture dans les réglages de Sécurité et Confidentalité de l'ordinateur.
 - Si malgré toutes ces étapes le jeu ne s'ouvre pas, supprimer tout ce qui a déjà été téléchargé et tenter de retélécharger le dossier en cliquant [ici](https://1drv.ms/u/s!AjBBjBB7mAZQtwjdjNYDZhOYkUN4?e=Xb7cRU).
 
-`ATTENTION : le dossier "versionMac" est obsolète et ne peut être utilisé pour lancer le jeu ! Seul le dossier "MUSEE_X_JEU.app/Contents" est valide.`
+`ATTENTION : le dossier "versionMac" contient uniquement les ressources brutes et ne peut être utilisé pour lancer le jeu ! Seul le dossier "MUSEE_X_JEU.app/Contents" est valide.`
 
 ## Développement
 Vous trouvez ici tous les fichiers relatifs au jeu ***Musée X*** (codes, ressources, etc.)
