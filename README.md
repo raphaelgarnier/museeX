@@ -16,8 +16,10 @@
 ## Développement
 Vous trouvez ici tous les fichiers relatifs au jeu ***Musée X*** (codes, ressources, etc.)
 
-Jeu développé dans le cadre du cours "Développement de jeux vidéo 2D", donné à l'Université de Lausanne par Isaac Pante.
-(automne 2019)
+Jeu développé dans le cadre du cours "Développement de jeux vidéo 2D", donné à l'Université de Lausanne par Isaac Pante
+(automne 2019).
+
+Jeu publié pour la première fois en janvier 2020.
 
 ## But de la médiation
 - Développer des connaissances en histoire de l'art en plongeant littéralement dans certaines oeuvres, tout en dialoguant avec les acteurs principaux de ces dernières.
