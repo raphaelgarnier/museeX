@@ -2,13 +2,13 @@
 
 ## Comment jouer ?
 **Sur Windows :**
-- Télécharger le dossier museeX en ZIP sur votre disque local (en cliquant sur le bouton vert en haut à droite "Clone or download").
+- Télécharger le dossier complet en ZIP sur votre disque local (en cliquant sur le bouton vert en haut à droite "Clone or download").
 - Une fois téléchargé, extraire tout le dossier ZIP.
 - Ouvrir le dossier décompressé.
 - Localiser le fichier "MUSEE_X_JEU.exe" et double-cliquer dessus pour accéder au jeu.
 
 **Sur Mac :**
-- Télécharger le dossier museeX en ZIP sur votre disque local (en cliquant sur le bouton vert en haut à droite "Clone or download").
+- Télécharger le dossier complet en ZIP sur votre disque local (en cliquant sur le bouton vert en haut à droite "Clone or download").
 - Localiser le dossier téléchargé et chercher l'application "MUSEE_X_JEU.app"
 - Double-cliquer sur l'application.
 - Si l'application ne s'ouvre pas, il est nécessaire d'autoriser son ouverture dans les réglages de Sécurité et confidentalité et de l'ordinateur.
